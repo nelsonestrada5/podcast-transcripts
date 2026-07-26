@@ -1,6 +1,6 @@
 ---
-podcast: Lenny's Podcast: Product | Career | Growth
-episode: Adam Mosseri: AI is a tailwind for authenticity
+podcast: Lenny's Podcast - Product | Career | Growth
+episode: Adam Mosseri - AI is a tailwind for authenticity
 transcript_id: 1000776117266
 fetched_at: 2026-07-26T17:19:00-04:00
 credits_charged: 1
