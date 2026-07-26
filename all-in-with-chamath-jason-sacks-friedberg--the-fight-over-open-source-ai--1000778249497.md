@@ -1,6 +1,6 @@
 ---
 podcast: All-In with Chamath, Jason, Sacks & Friedberg
-episode: The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?
+episode: The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists Evictions = Violence?
 transcript_id: 1000778249497
 fetched_at: 2026-07-26T17:27:00-04:00
 credits_charged: 1
