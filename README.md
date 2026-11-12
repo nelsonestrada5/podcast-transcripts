@@ -6,7 +6,7 @@ Archivo de podcasts para investigación y creación de contenido. Transcripcione
 | --- | --- |
 | [Algo Más Que Contarte con Alfonso Aguirre](algo-mas-que-contarte-con-alfonso-aguirre/) | 1 |
 | [All-In with Chamath, Jason, Sacks & Friedberg](all-in-with-chamath-jason-sacks-friedberg/) | 5 |
-| [David Senra](david-senra/) | 8 |
+| [David Senra](david-senra/) | 9 |
 | [Dwarkesh Podcast](dwarkesh-podcast/) | 1 |
 | [Founders](founders/) | 1 |
 | [Huberman Lab](huberman-lab/) | 1 |

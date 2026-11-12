@@ -2,6 +2,7 @@
 
 | Nº / Fecha | Episodio | Publicación |
 | --- | --- | --- |
+| 2026-11-11 | [Building Robinhood, Surviving GameStop & A $500 Million Phone Call \| Vlad Tenev](2026-11-11--building-robinhood-surviving-gamestop-500-million--1000801172887.md) | 2026-11-11 |
 | 2026-11-08 | [How to Win Deals & Grow a $250B Business \| Nikesh Arora, Palo Alto Networks](2026-11-08--how-to-win-deals-grow-a-250b-business--1000800536977.md) | 2026-11-08 |
 | 2026-11-04 | [a16z's First Employee on the History of a16z, Venture Capital & Fixing the Government \| Scott Kupor](2026-11-04--a16z-s-first-employee-on-the-history-of--1000799775972.md) | 2026-11-04 |
 | 2026-11-01 | [High School Dropout to Multi-Billionaire: The Relentless Drive of Rafael Vivas](2026-11-01--high-school-dropout-to-multi-billionaire-the-relentless--1000799195101.md) | 2026-11-01 |
