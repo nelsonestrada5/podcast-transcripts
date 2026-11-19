@@ -24,8 +24,12 @@
 | 183 | [#183: De “Qué lindo lo que haces” a “¿Cómo te pago?”](183--de-que-lindo-lo-que-haces-a-como--1000712069521.md) | 2025-06-09 |
 | 180 | [#180: ❤️‍🔥Volverte a enamorar de trabajar](180--volverte-a-enamorar-de-trabajar--1000708973303.md) | 2025-05-19 |
 | 179 | [#179: El secreto de los genios creativos no es talento- David Ogilvy y la divina insatisfacción](179--el-secreto-de-los-genios-creativos-no-es--1000706519971.md) | 2025-05-06 |
+| 174 | [#174: Consejos que quisiera haber recibido en mis 20's](174--consejos-que-quisiera-haber-recibido-en-mis-20s--1000698761942.md) | 2025-03-11 |
+| 173 | [#173: 🤓Mis 6 Estrategias para MÁS Productividad y Efectividad](173--mis-6-estrategias-para-mas-productividad-y-efectividad--1000697374755.md) | 2025-03-03 |
+| 2023-12-18 | [🌟3 paradigmas mentales: GRACIAS 2023](2023-12-18--3-paradigmas-mentales-gracias-2023--1000638958805.md) | 2023-12-18 |
 | 123 | [#123: Receta para un podcast que NO funciona](123--receta-para-un-podcast-que-no-funciona--1000635411583.md) | 2023-11-20 |
 | 121 | [#121: Viajes de Expansión: cómo y para qué planificar uno](121--viajes-de-expansion-como-y-para-que-planificar--1000633077657.md) | 2023-10-30 |
+| 77 | [#77: Borrón y cuenta nueva](077--borron-y-cuenta-nueva--1000594731966.md) | 2023-01-16 |
 | 21 | [#21 Viajando Sola: Mi Primer Viaje de Expansión y Planificación Estratégica](021--viajando-sola-mi-primer-viaje-de-expansion-y--1000467333438.md) | 2020-03-03 |
 
 Nota de metadatos: el episodio `1000774357958` no aparece en el catálogo actual. Su título es descriptivo y provisional; la fecha 2026-06-26 se infiere de sus palabras iniciales. Verificar antes de citar como título o fecha oficiales.
