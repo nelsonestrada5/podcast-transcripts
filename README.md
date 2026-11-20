@@ -13,7 +13,7 @@ Archivo de podcasts para investigación y creación de contenido. Transcripcione
 | [Ineficazmente Podcast](ineficazmente-podcast/) | 1 |
 | [Latent Space: The AI Engineer Podcast](latent-space-the-ai-engineer-podcast/) | 1 |
 | [Lenny's Podcast: Product | Career | Growth](lenny-s-podcast-product-career-growth/) | 1 |
-| [Mi Mejor Versión con Isa Garcia](mi-mejor-version-con-isa-garcia/) | 29 |
+| [Mi Mejor Versión con Isa Garcia](mi-mejor-version-con-isa-garcia/) | 30 |
 | [Open Residency](open-residency/) | 2 |
 | [The Game with Alex Hormozi](the-game-with-alex-hormozi/) | 6 |
 | [The Indigo Podcast](the-indigo-podcast/) | 1 |
