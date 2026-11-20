@@ -2,6 +2,7 @@
 
 | Nº / Fecha | Episodio | Publicación |
 | --- | --- | --- |
+| 240 | [#240: Cómo pensar como una gran estratega (6 principios)](240--como-pensar-como-una-gran-estratega-6-principios--1000803025970.md) | 2026-11-19 |
 | 239 | [#239: Cómo tener años más efectivos](239--como-tener-anos-mas-efectivos--1000801304806.md) | 2026-11-11 |
 | 238 | [#238: Lo difícil no es poner límites, es soportar que dejen de quererte [Emi Ribadeneira entrevista a Isa]](238--lo-dificil-no-es-poner-limites-es-soportar--1000800099726.md) | 2026-11-05 |
 | 237 | [#237: Cómo crear campañas de marketing memorables (Mi método paso a paso)](237--como-crear-campanas-de-marketing-memorables-mi-metodo--1000798621596.md) | 2026-10-29 |
