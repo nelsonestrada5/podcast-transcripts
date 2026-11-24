@@ -2,6 +2,7 @@
 
 | Nº / Fecha | Episodio | Publicación |
 | --- | --- | --- |
+| 2026-11-22 | [Jensen Huang, AI & Why Founders Are Irreplaceable \| Tobi Lütke, Shopify](2026-11-22--jensen-huang-ai-why-founders-are-irreplaceable--1000803394783.md) | 2026-11-22 |
 | 2026-11-18 | [Divine Discontent, AI Agents & the Future of Money \| Brian Armstrong, Coinbase](2026-11-18--divine-discontent-ai-agents-the-future-of-money--1000802663099.md) | 2026-11-18 |
 | 2026-11-15 | [What It Means to Be a “Real” Entrepreneur \| Michael Rubin, Fanatics](2026-11-15--what-it-means-to-be-a-real-entrepreneur--1000802049206.md) | 2026-11-15 |
 | 2026-11-11 | [Building Robinhood, Surviving GameStop & A $500 Million Phone Call \| Vlad Tenev](2026-11-11--building-robinhood-surviving-gamestop-500-million--1000801172887.md) | 2026-11-11 |
