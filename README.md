@@ -5,7 +5,7 @@ Archivo de podcasts para investigación y creación de contenido. Transcripcione
 | Podcast | Episodios |
 | --- | --- |
 | [Algo Más Que Contarte con Alfonso Aguirre](algo-mas-que-contarte-con-alfonso-aguirre/) | 1 |
-| [All-In with Chamath, Jason, Sacks & Friedberg](all-in-with-chamath-jason-sacks-friedberg/) | 5 |
+| [All-In with Chamath, Jason, Sacks & Friedberg](all-in-with-chamath-jason-sacks-friedberg/) | 6 |
 | [David Senra](david-senra/) | 13 |
 | [Dwarkesh Podcast](dwarkesh-podcast/) | 1 |
 | [Founders](founders/) | 1 |
